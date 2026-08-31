@@ -8,7 +8,7 @@ public class PedidoComida extends Pedido {
 
     @Override
     public int calcularTiempoEntrega() {
-        // Lógica específica para comida (por ejemplo, menor tiempo por preparación rápida)
+
         return 25; // Minutos
     }
 

@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87829100-eb8f-47f7-8740-bf3f4544e529" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cancelable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Despachable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PedidoComida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PedidoEncomienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PedidoExpress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rastreable.java" afterDir="false" />
+    <list default="true" id="87829100-eb8f-47f7-8740-bf3f4544e529" name="Changes" comment="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +25,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="MS100" value="1.000010494551225" />
+      <entry key="MS500" value="1.100970097201201" />
+      <entry key="S2" value="1.5637002060727108" />
+      <entry key="S5" value="1.7950954669454449" />
+      <entry key="S10" value="1.8916812586039053" />
+      <entry key="S30" value="1.9625054845960026" />
+      <entry key="S60" value="1.9810736387223962" />
+      <entry key="M2" value="1.9904916146775007" />
+      <entry key="M5" value="1.996228761069706" />
+      <entry key="M10" value="2.0046499883710394" />
+      <entry key="M15" value="2.0337662878406837" />
+      <entry key="M30" value="2.186551224072165" />
+      <entry key="H1" value="2.4323338116073097" />
+      <entry key="H2" value="2.6576038264853996" />
+      <entry key="H4" value="2.810946308874891" />
+      <entry key="D1" value="2.965679817857149" />
+      <entry key="W1" value="2.995023488904396" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,23 +63,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.55864356903611" />
-      <entry key="MS500" value="0.8900757332524964" />
-      <entry key="S2" value="0.9713074955416333" />
-      <entry key="S5" value="0.9884226664802529" />
-      <entry key="S10" value="0.9941944812159504" />
-      <entry key="S30" value="0.9980610700524115" />
-      <entry key="S60" value="0.9990300646389034" />
-      <entry key="M2" value="0.9995149146655609" />
-      <entry key="M5" value="0.999805937621983" />
-      <entry key="M10" value="0.9999029641030088" />
-      <entry key="M15" value="0.9999353083557424" />
-      <entry key="M30" value="0.9999676536547282" />
-      <entry key="H1" value="0.9999838266965763" />
-      <entry key="H2" value="0.9999919133155909" />
-      <entry key="H4" value="0.999995956649621" />
-      <entry key="D1" value="0.9999993261071348" />
-      <entry key="W1" value="0.9999999037295629" />
+      <entry key="MS100" value="0.001500347378369056" />
+      <entry key="MS500" value="0.37177876539383015" />
+      <entry key="S2" value="1.2841595279417808" />
+      <entry key="S5" value="1.6720475707975149" />
+      <entry key="S10" value="1.8281115639280836" />
+      <entry key="S30" value="1.940843505967524" />
+      <entry key="S60" value="1.9701825110883118" />
+      <entry key="M2" value="1.9850309302542803" />
+      <entry key="M5" value="1.9940408389352837" />
+      <entry key="M10" value="2.003554787430941" />
+      <entry key="M15" value="2.033034176341029" />
+      <entry key="M30" value="2.186180179290263" />
+      <entry key="H1" value="2.432144302329933" />
+      <entry key="H2" value="2.657507247208563" />
+      <entry key="H4" value="2.8108973984795793" />
+      <entry key="D1" value="2.9656715617479046" />
+      <entry key="W1" value="2.995022306632766" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -118,14 +105,15 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/RODOLFO/IdeaProjects/Semana 3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
     "to.speed.mode.migration.done": "true"
   }
@@ -146,9 +134,46 @@
       <option name="presentableId" value="Default" />
       <updated>1788129202093</updated>
     </task>
+    <task id="LOCAL-00001" summary="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces">
+      <option name="closed" value="true" />
+      <created>1788134377206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788134377206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces">
+      <option name="closed" value="true" />
+      <created>1788134403094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788134403094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces">
+      <option name="closed" value="true" />
+      <created>1788134613731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1788134613731</updated>
+    </task>
+    <task id="LOCAL-00004" summary="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces">
+      <option name="closed" value="true" />
+      <created>1788134622259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788134622259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 3 Diseñando un&#10;sistema orientado a objetos con clases abstractas, polimorfismo e interfaces" />
   </component>
 </project>
